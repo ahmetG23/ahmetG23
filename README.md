@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ahmetG23
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently using C/C++
+- 🎒 I'm pursuing my degree at Bilkent University.
 - 📫ahmetguneyli64@gmail.com
 
 <!---
