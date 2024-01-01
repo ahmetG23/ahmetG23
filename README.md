@@ -11,17 +11,18 @@
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=ahmetG23&style=flat-square&color=blue" alt="number of profile visits"/>
-  <br>
-  There is no life I know <br>
-  To compare with pure imagination <br>
-  Living there, you'll be free <br>
-  If you truly wish to be <br>
-  <em>Willy Wonka</em>
+  <be>
   
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/Uk3O3t7zQ3E9qcmqje/giphy-downsized-large.gif" />
+  <div display:"inline-block">
+    <div>
+      There is no life I know <br>
+      To compare with pure imagination <br>
+      Living there, you'll be free <br>
+      If you truly wish to be <br>
+      <em>Willy Wonka</em>
+    </div>
+    <img src="https://media.giphy.com/media/Uk3O3t7zQ3E9qcmqje/giphy-downsized-large.gif" />
+  </div> 
 </div>
 
 ---
