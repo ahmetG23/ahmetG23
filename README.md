@@ -7,5 +7,5 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=ahmetG23&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ahmetG23&style=flat-square&color=blue" alt="number of profile visits"/>
 </div>
