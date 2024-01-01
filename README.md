@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sevillana&display=swap" rel="stylesheet">
+    
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150"/>
   
@@ -13,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmetG23&style=flat-square&color=blue" alt="number of profile visits"/>
   <br>
   
-  <div display:"inline-block">
+  <div>
     <div>
       There is no life I know <br>
       To compare with pure imagination <br>
@@ -21,7 +25,7 @@
       If you truly wish to be <br>
       <em>Willy Wonka</em>
     </div>
-    <img src="https://media.giphy.com/media/Uk3O3t7zQ3E9qcmqje/giphy-downsized-large.gif" />
+    <img src="https://media.giphy.com/media/Uk3O3t7zQ3E9qcmqje/giphy-downsized-large.gif" float="right"/>
   </div> 
 </div>
 
