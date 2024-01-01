@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/O0hFXMktBCdpRoAcpE/giphy.gif" />
+  <img src="https://media.giphy.com/media/Uk3O3t7zQ3E9qcmqje/giphy-downsized-large.gif" />
 </div>
 
 ---
@@ -33,3 +33,16 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :seedling: My area of interest includes data structures, algorithms, front-end development, and mobile apps.
 
 - :mailbox: Don't hesitate to reach me out at: ahmetguneyli64@gmail.com
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" alt="C"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" alt="C++"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px" height="40px" alt="Dart"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40px" height="40px" alt="Bash"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" alt="HTML5"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px" alt="CSS3"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="Javascript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40px" height="40px" alt="jQuery"/>
+</div>
