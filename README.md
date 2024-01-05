@@ -50,4 +50,5 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px" alt="CSS3"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="Javascript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40px" height="40px" alt="jQuery"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40px" height="40px" alt="vue.js"/>
 </div>
