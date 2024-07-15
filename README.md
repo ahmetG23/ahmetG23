@@ -34,7 +34,7 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 - :telescope: I’m pursuing a Computer Science BS.
 
-- :seedling: My area of interest includes data structures, algorithms, front-end development, and mobile apps.
+- :seedling: My area of interest includes data structures, algorithms, and front-end development.
 
 - :mailbox: Don't hesitate to reach me out at: ahmetguneyli64@gmail.com
 
