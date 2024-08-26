@@ -41,6 +41,7 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" alt="C++"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40px" height="40px" alt="Go"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px" height="40px" alt="Dart"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40px" height="40px" alt="Bash"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" alt="HTML5"/>
