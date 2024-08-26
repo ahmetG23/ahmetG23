@@ -42,6 +42,7 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" alt="C++"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40px" height="40px" alt="Go"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" height="40px" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px" height="40px" alt="Dart"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40px" height="40px" alt="Bash"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" alt="HTML5"/>
@@ -49,12 +50,4 @@ I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px" height="40px" alt="Javascript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="40px" height="40px" alt="vue.js"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40px" height="40px" alt="Tailwind CSS"/>
-</div>
-
-### :hammer_and_wrench: Languages and Tools I have a general understanding :
-<div> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40px" height="40px" alt="Flutter"/>   
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="40px" height="40px" alt="jQuery"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" height="40px" alt="Java"/>
-    
 </div>
