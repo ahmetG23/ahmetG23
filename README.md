@@ -30,20 +30,20 @@
 ### :man_technologist: About Me :
 I am a tech enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bilkent University.
 
-- :telescope: I’m pursuing a Computer Science BS.
+- :telescope: I’m pursuing a BS in computer science.
 
-- :seedling: My area of interest includes data structures, algorithms, and front-end development.
+- :seedling: My area of interest includes data structures, algorithms, high-frequency trading, and back-end & front-end development.
 
-- :mailbox: Don't hesitate to reach me out at: ahmetguneyli64@gmail.com
+- :mailbox: Don't hesitate to reach me out at ahmetguneyli64@gmail.com
 
 ---
-### :hammer_and_wrench: Languages and Tools I am mostly comfortable with :
+### :hammer_and_wrench: Languages and Tools I am comfortable with :
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40px" height="40px" alt="C"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40px" height="40px" alt="C++"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40px" height="40px" alt="Go"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" height="40px" alt="Java"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="40px" height="40px" alt="Dart"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" height="40px" alt="Java"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="40px" height="40px" alt="Bash"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px" alt="HTML5"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px" height="40px" alt="CSS3"/>
